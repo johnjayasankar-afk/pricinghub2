@@ -1,0 +1,10 @@
+{
+  "productName": "KeepFloor Catalog",
+  "priceUsd": 19,
+  "currency": "USD",
+  "polarCheckoutUrl": "",
+  "polarOrganizationId": "",
+  "polarApiBase": "https://sandbox-api.polar.sh",
+  "gumroadUrl": "",
+  "supportEmail": ""
+}

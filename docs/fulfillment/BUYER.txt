@@ -1,0 +1,13 @@
+KeepFloor Catalog
+One-time purchase
+
+Open index.html from this folder in Chrome, Firefox, or Safari.
+Use Catalog to paste your listings or start from sample-catalog.csv.
+
+Headers:
+name,price,shipping,gift,quantity,cogs,shipping_you_pay,packaging,labor,target_profit
+
+This file does not connect to Etsy. It does not upload your spreadsheet.
+
+If the file will not open, email the address on your payment receipt.
+Refunds: 14 days if a well-formed CSV using those headers will not calculate.

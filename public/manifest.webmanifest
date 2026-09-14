@@ -1,0 +1,17 @@
+{
+  "name": "KeepFloor",
+  "short_name": "KeepFloor",
+  "description": "The Etsy list price that still pays you after published seller fees, including Offsite Ads.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f6f1",
+  "theme_color": "#f8f6f1",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

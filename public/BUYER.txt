@@ -1,0 +1,4 @@
+KeepFloor Catalog
+Open index.html in this folder. Catalog is unlocked in the paid build.
+CSV headers: name,price,shipping,gift,quantity,cogs,shipping_you_pay,packaging,labor,target_profit
+Not affiliated with Etsy. Your payment account is the record of actual fees.

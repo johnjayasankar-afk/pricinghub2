@@ -1,0 +1,5 @@
+name,price,shipping,gift,quantity,cogs,shipping_you_pay,packaging,labor,target_profit,sku
+Linen tote,32,5.50,0,1,8.40,3.20,0.80,2.00,12,TOTE
+Art print 8x10,18,0,0,1,2.10,0,0.40,0.50,8,PRINT
+Digital planner,12,0,0,1,0,0,0,1.00,6,PLAN
+Vinyl sticker,3,1.50,0,1,0.20,0.68,0.15,0.25,2,STICK
